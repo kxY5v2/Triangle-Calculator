@@ -5,9 +5,13 @@ A program to calculate the area, the perimeter , and find a missing side, for an
 
 /*
 PROBLEMS:
+
   BACK OPTION NOT WORKING - RESOLVED!
+  
   CAN ONLY DO ONE MENU OPTION IN MAIN - RESOLVED!
+  
   DOES NOT ACCEPT INVALID INPUT
+  
 */
 
 //==============================================================================
